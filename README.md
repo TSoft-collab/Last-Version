@@ -44,4 +44,4 @@ acceleration requirements
 OpenGL 2.0-capable system
 
 Internet
-Internet connection and registration are necessary for required software activation
+Internet connection and registration are necessary for required software activation.
